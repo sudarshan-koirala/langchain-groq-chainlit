@@ -1,5 +1,5 @@
 # langchain-groq-chainlit
-Simple Chat UI using Gemma model via Ollama, LangChain and Chainlit
+Simple Chat UI using Large Language Model Groq, LangChain and Chainlit
 
 ### Tech stack being used
 - LLMs from [Groq](https://groq.com/) website.
